@@ -4,5 +4,6 @@ object Hello {
   def main(args: Array[String]): Unit = {
     println("Hello, World!")
     println("Hello, Scala!")
+    println("Hello, Clojure!")
   }
 }
